@@ -1,0 +1,605 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\Application$$anonfun$index$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\Application.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\ReverseApplication.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\ReverseAssets.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\routes$javascript.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\routes.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_at1_invoker$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix$.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index$.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$index.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main$.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main.class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0.class
+binary dependencies:
+24 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+10 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> controllers.Application
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> controllers.Application$$anonfun$index$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseApplication
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAssets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes$javascript
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$documentation$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_at1_invoker$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index$
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main$
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1$$anonfun$apply$1
+used names:
+356 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> <byname>
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Action
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> AnyContent
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Appendable
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Application
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> C
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Codec
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Content
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> ContentTypeOf
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Controller
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Html
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> HtmlFormat
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Ok
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Result
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Status
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> Writeable
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> apply
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> contentTypeOf_Html
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> html
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> http
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> index
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> utf_8
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> views
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> writeableOf_Content
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Boolean
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Call
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> HandlerDef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavascriptLiteral
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> QueryStringBindable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseApplication
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAssets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> T
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> bindableString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> core
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> dynamicString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> queryString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> +
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <byname>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <repeated>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> A
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Asset
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Assets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> B
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Boolean
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Call
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> HandlerDef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> JavascriptLiteral
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Map
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> QueryStringBindable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseApplication
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseAssets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> T
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> T1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> T2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Tuple2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _prefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _root_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> apply
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> bindableString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> core
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> dynamicString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> empty
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> endsWith
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> file
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> implicitly
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> queryString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> routing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> unbind
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> +
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> ++
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> :+
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> <byname>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> <refinement>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> <repeated>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> ?0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> A
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> A1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> A2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> AbstractPartialFunction
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Action
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> AnyContent
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Application
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Application_1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Asset
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Assets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Assets_0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> B
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> B1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Boolean
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> CanBuildFrom
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Class
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> ClassLoader
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Coll
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> DynamicPart
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Either
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Function1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Function2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> GenTraversableOnce
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> GeneratedRouter
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Handler
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> HandlerDef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvoker
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvokerFactory
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> HttpErrorHandler
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> List
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Nil
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> None
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Option
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Param
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> ParamsExtractor
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> PartialFunction
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> PathBindable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> PathPart
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> PathPattern
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Product
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> RequestHeader
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> ReverseRouteContext
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Right
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Route
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> RouteParams
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Routes
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> RoutesPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Seq
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Serializable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> StaticPart
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> T
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> T0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> T1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> T2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> T3
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> That
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Tuple3
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> Unit
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> _$1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> apply
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> asInstanceOf
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> at
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> bindableString
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> call
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> canBuildFrom
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> collection
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_invoker
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_route
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_at1_invoker
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_at1_route
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> core
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> createInvoker
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> defaultPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> e
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> empty
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> endsWith
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> errorHandler
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> fakeValue
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> file
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> foldLeft
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> fromPath
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> get
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> getClass
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> getClassLoader
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> http
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> immutable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> index
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> isEmpty
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> isInstanceOf
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> j
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> package
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> params
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> passThrough
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> path
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> prefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> router
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> routing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> s
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> setPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> unapply
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> unary_!
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> unchecked
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Function0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Unit
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix_=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> p
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> prefix
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> <repeated>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> A
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Appendable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> BaseScalaTemplate
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Format
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Function1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Html
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> HtmlFormat
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Manifest
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> ManifestFactory
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> PlayMagic
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Seq
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> T
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> Template1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> TemplateMagic
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> _display_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> _root_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> apply
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> classType
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> collection
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> data
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> format
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> html
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> i18n
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> index
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> index_Scope0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> main
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> message
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> models
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> play20
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> raw
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> reflect
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> templates
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> twirl
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> views
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> welcome
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> <init>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> <repeated>
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> A
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Any
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> AnyRef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Appendable
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Assets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> BaseScalaTemplate
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Call
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Format
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Function1
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Html
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> HtmlFormat
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Manifest
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> ManifestFactory
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Nothing
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Object
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> PlayMagic
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Predef
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> ReverseAssets
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Seq
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> String
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> T
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> Template2
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> TemplateMagic
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> _display_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> _root_
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> api
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> apply
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> at
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> classType
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> collection
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> content
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> controllers
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> data
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> format
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> html
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> i18n
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> main
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> main_Scope0
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> models
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> mvc
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> play
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> raw
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> reflect
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> routes
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> scala
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> templates
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> title
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> twirl
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> views
+product stamps:
+33 items
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\Application$$anonfun$index$1.class -> lastModified(1540212872642)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\Application.class -> lastModified(1540212872629)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class -> lastModified(1540212872672)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class -> lastModified(1540212872682)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\ReverseApplication.class -> lastModified(1540212872650)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\ReverseAssets.class -> lastModified(1540212872662)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\routes$javascript.class -> lastModified(1540212873233)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\controllers\routes.class -> lastModified(1540212873238)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class -> lastModified(1540212872708)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class -> lastModified(1540212872714)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_at1_invoker$1.class -> lastModified(1540212872720)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1540212872744)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1540212872737)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1540212872756)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1540212872749)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1540212872731)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\Routes.class -> lastModified(1540212872698)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class -> lastModified(1540212872771)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix$.class -> lastModified(1540212872766)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\router\RoutesPrefix.class -> lastModified(1540212872761)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index$.class -> lastModified(1540212872790)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index.class -> lastModified(1540212872781)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$.class -> lastModified(1540212872800)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class -> lastModified(1540212872814)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0$index.class -> lastModified(1540212872807)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\index_Scope0.class -> lastModified(1540212872795)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main$.class -> lastModified(1540212872829)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main.class -> lastModified(1540212872824)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$.class -> lastModified(1540212872838)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1540212872862)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class -> lastModified(1540212872853)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0$main.class -> lastModified(1540212872846)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\classes\views\html\main_Scope0.class -> lastModified(1540212872833)
+source stamps:
+8 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> hash(1109dcf38fb0b012851fc7760fd7ce603f789885)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(bad232d3c25194c970f8295f426e31b7e7be17c3)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> hash(593fa12ed3531545f41e6515276f788d7395d230)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> hash(bc5f75e0be2e3e9a6b3e5a2786f689d600e12d61)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> hash(b6c1e4f6399aefb8ae0895fbe63a18985d4e532c)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> hash(3c0ba8078f032f09e61c0c4fb2614609c31fda86)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> hash(751b1725afc1d70f2bfe9983c8c3be8e0fe38819)
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> hash(873d6bb09cd3a07f0aeed0212d13512f9aa5daff)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> lastModified(1539078869294)
+C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar -> lastModified(1534539126000)
+C:\Users\Admin\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> lastModified(1431579649000)
+C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> lastModified(1492113025000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Admin\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.19.jar -> play.api.templates.PlayMagic$
+C:\Users\Admin\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> play.twirl.api.Template2
+C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> scala.collection.generic.GenericCompanion
+internal apis:
+8 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB5d40wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAM7hNmdAAPcmVxdWVzdDJzZXNzaW9uc3EAfgALZ2dLG3QADXJlcXVlc3QyZmxhc2hzcQB+AAvZFL9edAAMcmVxdWVzdDJsYW5ndXEAfgAJAAABFXNxAH4AC4tv9I10AAxSZXNldENvbnRlbnRzcQB+AAtoaFL8dAANTm90QWNjZXB0YWJsZXNxAH4AC0i64L90ABFUZW1wb3JhcnlSZWRpcmVjdHNxAH4ACwjlp0d0AAhzZW5kRmlsZXNxAH4ACwcFK0d0AA9hZGRpbmdUb1Nlc3Npb25zcQB+AAuieZKndAAGTG9ja2Vkc3EAfgALolzHH3QABm5vdGlmeXNxAH4AC+C9zFN0AARGUk9Nc3EAfgALWFu13HQAEENPTlRFTlRfTEFOR1VBR0VzcQB+AAs58ofRdAAHQ1JFQVRFRHNxAH4ACxreSIV0AAd1bmFwcGx5c3EAfgALwyLOA3QAEFRPT19NQU5ZX1JFUVVFU1RzcQB+AAtOr8OYdAAHV0FSTklOR3NxAH4AC2C8i5d0AA9QYXltZW50UmVxdWlyZWRzcQB+AAvzkADMdAAIQ09OVElOVUVzcQB+AAtcsk3+dAAEYm9keXNxAH4AC2ntzbN0AA5mb3JtJGRlZmF1bHQkMnNxAH4AC1WuyCp0AAtTRVRfQ09PS0lFMnNxAH4AC6OJcE50AAhIVFRQXzFfMXNxAH4AC/3Soep0ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgAL8YVhlnQADXJhdyRkZWZhdWx0JDFzcQB+AAs7bE4XdAAMQ09OVEVOVF9UWVBFc3EAfgALcqpb6XQABkJJTkFSWXNxAH4AC9WOzGt0AAR3YWl0c3EAfgALIcUuqXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAuGYR0KdAAKQmFkR2F0ZXdheXNxAH4ACzvGOM90ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALL1kz7nQADlRvb01hbnlSZXF1ZXN0c3EAfgALNNnwWXQAClVTRVJfQUdFTlRzcQB+AAs4NR46dAAWc2VuZFJlc291cmNlJGRlZmF1bHQkMnNxAH4AC72qYZJ0AARIT1NUc3EAfgALetBjXHQAC0NPTlRFTlRfTUQ1c3EAfgALdzaJinQADmNvcHkkZGVmYXVsdCQyc3EAfgALij6fB3QAB0NyZWF0ZWRzcQB+AAtJwMiodAANJGFzSW5zdGFuY2VPZnNxAH4AC1HRc690AAVlbXB0eXNxAH4AC+m/wVV0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgAL1M/aanQACkphdmFTY3JpcHRzcQB+AAs5JF3qdAALQkFEX1JFUVVFU1RzcQB+AAvUu+1vdAAFdXNpbmdzcQB+AAs+uSJKdAAOTm90SW1wbGVtZW50ZWRzcQB+AAsu85VwdAAMTUFYX0ZPUldBUkRTc3EAfgALSovBKnQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAvJDoKjdAADQ1NTc3EAfgALW08oAXQADHRvbGVyYW50SnNvbnNxAH4AC6JOS/J0AAhTZWVPdGhlcnNxAH4AC1bBIwh0AAdUUkFJTEVSc3EAfgALDgjrnnQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4ACxbpO6B0AA1BVVRIT1JJWkFUSU9Oc3EAfgALADaHVHQAA1hNTHNxAH4AC77J5kB0AAphbnlDb250ZW50c3EAfgALpvLrg3QADUNBQ0hFX0NPTlRST0xzcQB+AAuftbsRdAAbTm9uQXV0aG9yaXRhdGl2ZUluZm9ybWF0aW9uc3EAfgALjgmICHQAD05PVF9JTVBMRU1FTlRFRHNxAH4AC4UiKb50AAxwcm9kdWN0QXJpdHlzcQB+AAu2rYVcdAAGZXF1YWxzc3EAfgAL5f5LpXQAEFBBWU1FTlRfUkVRVUlSRURzcQB+AAvnAsTndAAEanNvbnNxAH4AC3dut0x0AAhBY2NlcHRlZHNxAH4ACyiw6tR0AAtSRVRSWV9BRlRFUnNxAH4AC3FaWjZ0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAuZQIFcdAAOdXJsRm9ybUVuY29kZWRzcQB+AAuAVW0qdAAESlNPTnNxAH4AC+AguDJ0AAhSZWRpcmVjdHNxAH4AC8Wxhmh0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAL/2uganQADlBhcnRpYWxDb250ZW50c3EAfgALCx9WvXQAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgALE1KT2HQACENPTkZMSUNUc3EAfgAL97EioHQAEnNlbmRGaWxlJGRlZmF1bHQkMnNxAH4ACw/EOLl0AA5BQ0NFUFRfQ0hBUlNFVHNxAH4AC57AEJ10ABFQZXJtYW5lbnRSZWRpcmVjdHNxAH4AC22wBlB0ABFFeHBlY3RhdGlvbkZhaWxlZHNxAH4AC/5F7Kt0AANWSUFzcQB+AAt14AgHdAAMYXNJbnN0YW5jZU9mc3EAfgALObJUhnQAD1JFUVVFU1RfVElNRU9VVHNxAH4AC3tnqIl0ABBNVUxUSVBMRV9DSE9JQ0VTc3EAfgALHYQ+UnQAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgALilvbr3QAAlRFc3EAfgAL1RaJvXQADkdhdGV3YXlUaW1lb3V0c3EAfgAL5d7f0XQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAvQhqU7dAAPUEFSVElBTF9DT05URU5Uc3EAfgAL2flrdXQAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAswcbLadAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAud50dzdAARbXVsdGlwYXJ0Rm9ybURhdGFzcQB+AAtZAupkdAAMRVZFTlRfU1RSRUFNc3EAfgALKC3A73QADHN5bmNocm9uaXplZHNxAH4ACy5JAd90ABBGYWlsZWREZXBlbmRlbmN5c3EAfgAL38lVIXQABEVUQUdzcQB+AAt8xiGtdAAPTEVOR1RIX1JFUVVJUkVEc3EAfgALkpp7JXQADndpdGhOZXdTZXNzaW9uc3EAfgALFUoxQXQACkpBVkFTQ1JJUFRzcQB+AAvfhsSEdAAORW50aXR5VG9vTGFyZ2VzcQB+AAtGoBN3dAAMVU5BVVRIT1JJWkVEc3EAfgALrrgzhnQAEnNlbmRQYXRoJGRlZmF1bHQkMnNxAH4AC6ytPOF0ABZVTlNVUFBPUlRFRF9NRURJQV9UWVBFc3EAfgALJSNCOnQADSRpc0luc3RhbmNlT2ZzcQB+AAshhE9kdAAHUkVGRVJFUnNxAH4AC9x9+Rd0ABhSRVFVRVNUX0VOVElUWV9UT09fTEFSR0VzcQB+AAsHKKGMdAAGT1JJR0lOc3EAfgALHop363QAC3dpdGhDb29raWVzc3EAfgAL73L/VXQAD0FDQ0VQVF9MQU5HVUFHRXNxAH4AC1ktV8x0AAxOT1RfTU9ESUZJRURzcQB+AAvDUR2CdAACYXNzcQB+AAuMic9MdAALd2l0aFNlc3Npb25zcQB+AAs3xPgPdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAshkoL2dAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALnHufsnQAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4ACx4k0dh0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALTXXJqnQADXJhdyRkZWZhdWx0JDJzcQB+AAtVB723dAAEdGV4dHNxAH4AC0Ckq0p0AAhjYW5FcXVhbHNxAH4AC89wMWl0AAhOb3RGb3VuZHNxAH4AC7HzRC10AAhJRl9SQU5HRXNxAH4AC6uvCrF0ABJzZW5kRmlsZSRkZWZhdWx0JDRzcQB+AAu0NhxLdAAbbXVsdGlwYXJ0Rm9ybURhdGEkZGVmYXVsdCQyc3EAfgALD0iWvHQACGZsYXNoaW5nc3EAfgALZJpdBXQABEZPUk1zcQB+AAsMvnekdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4AC9+MdP50ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgAL8aZDzHQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ACwag1iZ0AA1wcm9kdWN0UHJlZml4c3EAfgALztvOzHQADkNPTlRFTlRfTEVOR1RIc3EAfgAL/rhT1nQADXRlbXBvcmFyeUZpbGVzcQB+AAtRtrdvdAAKU0VUX0NPT0tJRXNxAH4ACwMfXpB0AAlub3RpZnlBbGxzcQB+AAs5YKahdAADQUdFc3EAfgALOm3e0HQAFERlZmF1bHRNYXhUZXh0TGVuZ3Roc3EAfgALMdqqcXQAC0JBRF9HQVRFV0FZc3EAfgALswHBLHQAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4AC3eIciJ0AApDT05ORUNUSU9Oc3EAfgALS32HVXQACUZPUldBUkRFRHNxAH4AC82RPYl0AAJPa3NxAH4AC/4rz290AAxpc0luc3RhbmNlT2ZzcQB+AAsEfumAdAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC2UHxT90AAJPS3NxAH4AC6TUo5h0AAZhc0phdmFzcQB+AAvSDHVFdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAsU18iudAAVQXBwbGljYXRpb25YbWxNYXRjaGVyc3EAfgAL/oL+FXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAtwp/QTdAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAsZdpALdAAJRm9yYmlkZGVuc3EAfgALPG8mG3QAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgALWFh3BHQABFRFWFRzcQB+AAsQMcIvdAAKQmFkUmVxdWVzdHNxAH4ACxy/ORR0AAVGT1VORHNxAH4AC5Z/lid0AAY8aW5pdD5zcQB+AAuHJd/AdAALTm90TW9kaWZpZWRzcQB+AAsT+/81dAAEREFURXNxAH4AC25hkjp0AAVhc3luY3NxAH4AC8y/sql0AA1DT05URU5UX1JBTkdFc3EAfgALwMO3jnQACVVOTElNSVRFRHNxAH4ACx4+rVZ0AAQkYW1wc3EAfgAL1h7uDnQADHNlbmRSZXNvdXJjZXNxAH4AC+hWWEp0AAx0b2xlcmFudFRleHRzcQB+AAsjyZusdAAHY2h1bmtlZHNxAH4AC7MXW1B0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC8WLvrZ0ABJQRVJNQU5FTlRfUkVESVJFQ1RzcQB+AAuPvMZYdAAFYXBwbHlzcQB+AAsZBZstdAADcmF3c3EAfgAL5lMODnQABWVycm9yc3EAfgALvh9xGXQAA3htbHNxAH4AC1nDYkd0ABFUT09fTUFOWV9SRVFVRVNUU3NxAH4AC85wMj10AAVwYXJzZXNxAH4AC85QvRF0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALJTwqI3QAAj09c3EAfgALNkqq5HQABEdPTkVzcQB+AAsF92oKdAAER29uZXNxAH4AC09QVot0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4AC7I6UYN0AA5OT1RfQUNDRVBUQUJMRXNxAH4AC/dAboJ0AAVjbG9uZXNxAH4AC1+uL010AAZFWFBFQ1RzcQB+AAv1x5+5dAAWc2VuZFJlc291cmNlJGRlZmF1bHQkM3NxAH4AC0888kd0AAdkZWZhdWx0c3EAfgALRo1qcXQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC+UGAWp0AAhMT0NBVElPTnNxAH4AC+3J29Z0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAsiy7MQdAAEVkFSWXNxAH4AC/161bl0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgAL+L1x5nQAC0FwcGxpY2F0aW9uc3EAfgALFkGNw3QABGZlZWRzcQB+AAu3z5UQdAAEVE9ET3NxAH4ACw9nGMJ0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAvp4dk6dAAOZm9ybSRkZWZhdWx0JDNzcQB+AAvN4SF9dAAGJGluaXQkc3EAfgALjbOeF3QAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC4kql3N0AAhBQ0NFUFRFRHNxAH4AC3GvI9R0AARIdG1sc3EAfgALRBU0s3QACk5PX0NPTlRFTlRzcQB+AAsPDQ6ZdAAISFRUUF8xXzBzcQB+AAt3TH2LdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgALdNBLxXQAB1VQR1JBREVzcQB+AAthW6RNdAAWdG9sZXJhbnRGb3JtVXJsRW5jb2RlZHNxAH4ACz8VEKl0AAlOT1RfRk9VTkRzcQB+AAu0gqLydAAHc2Vzc2lvbnNxAH4AC7rYkTF0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAtLkKWzdAATSW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4AC1Ppw0x0AAdFWFBJUkVTc3EAfgAL6EEsFXQABGNvcHlzcQB+AAs2eD9ZdAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4ACxu/K290AAZoZWFkZXJzcQB+AAuz8fdjdAAQVVBHUkFERV9SRVFVSVJFRHNxAH4ACyZvYCh0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4AC1BHAD50AA9Ub29NYW55UmVxdWVzdHNzcQB+AAtVYdvadAAIdG9TdHJpbmdzcQB+AAvSuPWPdAAMVW5hdXRob3JpemVkc3EAfgALwHs5pHQABGZpbGVzcQB+AAuLYHxgdAAOUmVxdWVzdFRpbWVvdXRzcQB+AAsKxOTqdAAGQUNDRVBUc3EAfgAL8vTWzXQAClVyaVRvb0xvbmdzcQB+AAvqAWRqdAAPR0FURVdBWV9USU1FT1VUc3EAfgALHvTH3XQAC011bHRpU3RhdHVzc3EAfgALoxJlrnQABlNFUlZFUnNxAH4AC3Vq1Z50AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4AC9rHltZ0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4AC6EbNi50ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgALon0G4nQACHNlbmRQYXRoc3EAfgALeH0gJ3QACnNlbmRFbnRpdHlzcQB+AAtzyu2ddAACIT1zcQB+AAvGRBtSdAANTEFTVF9NT0RJRklFRHNxAH4ACyi9mR90AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACx1tt4x0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAuLi1RNdAALd2l0aENoYXJzZXRzcQB+AAsGHK4qdAAIQ29uZmxpY3RzcQB+AAvwpgpGdAAFQUxMT1dzcQB+AAt6PxFldAAGQ09PS0lFc3EAfgALnrWUDHQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALR4niPXQACGdldENsYXNzc3EAfgAL78j5H3QAA1htbHNxAH4ACw9S4kR0ABBlbmZvcmNlTWF4TGVuZ3Roc3EAfgALM48M03QAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAtuQ1sydAAOY29weSRkZWZhdWx0JDFzcQB+AAuh58/+dAAESFRNTHNxAH4ACyaye510AAVGb3VuZHNxAH4AC00yFYd0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ACxs2EPl0AARmb3Jtc3EAfgALehMN7HQABnJlbmRlcnNxAH4AC/SyouJ0AAZQUkFHTUFzcQB+AAs66xkAdAAISUZfTUFUQ0hzcQB+AAu4Wk0zdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAuPBL9wdAANUkVTRVRfQ09OVEVOVHNxAH4ACxs2DcB0AAlTRUVfT1RIRVJzcQB+AAtDJ2lWdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAurhP/EdAACbmVzcQB+AAs8vWgjdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC0XzxeV0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALfBRuxXQABVJBTkdFc3EAfgALwsIhGXQAD3dpdGhEYXRlSGVhZGVyc3NxAH4ACwY891F0AAlVU0VfUFJPWFlzcQB+AAue//VmdAAHQWNjZXB0c3NxAH4AC/n9JBx0AAdDSFVOS0VEc3EAfgALPwq4o3QAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgALSfa+J3QAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4ACwLBFdl0AAZMT0NLRURzcQB+AAueWawadAAEd2hlbnNxAH4AC9lz0dp0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAu1R3LVdAAGaWdub3Jlc3EAfgAL11jWBXQABEpzb25zcQB+AAtk9oAZdAAJbWF4TGVuZ3Roc3EAfgALDbm7SnQACUZPUkJJRERFTnNxAH4AC5X2h9Z0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAuBI2LadAACZXFzcQB+AAvJTI7WdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL9iTlEHQADUlGX05PTkVfTUFUQ0hzcQB+AAtwUJmFdAANQUNDRVBUX1JBTkdFU3NxAH4AC2RwJ/10AAlOb0NvbnRlbnRzcQB+AAtOV2H7dAAQWF9SRVFVRVNURURfV0lUSHNxAH4AC9Igf+10ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4AC7nePSp0AAt0b2xlcmFudFhtbHNxAH4AC8wShfp0AAxNVUxUSV9TVEFUVVNzcQB+AAtq/VUNdAACIyNzcQB+AAuO9PlWdAAIZmluYWxpemVzcQB+AAvOaxmddAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4ACwVf+w90AAVpbmRleHNxAH4AC0ZG4B90AA5wcm9kdWN0RWxlbWVudHNxAH4AC5XX0kV0AAhoYXNoQ29kZXNxAH4AC3Q8k8l0AAZTdGF0dXNzcQB+AAs88TQSdAALd2l0aEhlYWRlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgJHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXY29udHJvbGxlcnMuQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4CX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgJHTAAJaW5oZXJpdGVkcQB+AkdMAAdwYXJlbnRzcQB+Akd4cQB+AmRzcQB+Al91cQB+AkIAAAAAc3EAfgJfdXEAfgJCAAAAAHNxAH4CX3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAMc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4CY3QACkNvbnRyb2xsZXJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AmNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+Anx0AANhcGlzcQB+Anx0AANtdmNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4CfXNxAH4CcHQACVJlbmRlcmluZ3EAfgJ2c3EAfgJwdAARUmVxdWVzdEV4dHJhY3RvcnNxAH4CdnNxAH4CcHQAEEFjY2VwdEV4dHJhY3RvcnNxAH4CdnNxAH4CcHQADENvbnRlbnRUeXBlc3NxAH4CdHNxAH4Cd3VxAH4CegAAAARzcQB+Anx0AARwbGF5c3EAfgJ8cQB+AoFzcQB+Anx0AARodHRwcQB+AoVzcQB+AnB0AAtIZWFkZXJOYW1lc3EAfgKOc3EAfgJwdAAGU3RhdHVzcQB+Ao5zcQB+AnB0AAxIdHRwUHJvdG9jb2xxAH4CjnNxAH4CcHQAC0JvZHlQYXJzZXJzcQB+AnZzcQB+AnB0AAdSZXN1bHRzcQB+AnZzcQB+AnB0AAZPYmplY3RzcQB+AnRzcQB+And1cQB+AnoAAAADc3EAfgJ8dAAEamF2YXNxAH4CfHQABGxhbmdxAH4ChXNxAH4CcHQAA0FueXNxAH4CdHNxAH4Cd3VxAH4CegAAAAJzcQB+Anx0AAVzY2FsYXEAfgKFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUEQnc84+wsBKFH8d2D9fOYD94mIU=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYDA4nQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9ETS33QABm5vdGlmeXNxAH4ADLE9ast0AA5fZGVmYXVsdFByZWZpeHNxAH4ADMRG+Zd0AAR3YWl0c3EAfgAM30jrmnQADSRhc0luc3RhbmNlT2ZzcQB+AAzjVDrydAAGZXF1YWxzc3EAfgAMy5aZOHQADGFzSW5zdGFuY2VPZnNxAH4ADE0811p0AAxzeW5jaHJvbml6ZWRzcQB+AAwSFcOBdAANJGlzSW5zdGFuY2VPZnNxAH4ADHSdBVt0AA1SZXZlcnNlQXNzZXRzc3EAfgAMWb6PqXQACW5vdGlmeUFsbHNxAH4ADLzg+Hd0AAxpc0luc3RhbmNlT2ZzcQB+AAxHW1JcdAAGPGluaXQ+c3EAfgAMIp20DXQAAmF0c3EAfgAM3yjK+HQAAj09c3EAfgAMPy76QnQABWNsb25lc3EAfgAMQQHq2HQACHRvU3RyaW5nc3EAfgAMmybwinQAAiE9c3EAfgAMYIvd3XQACGdldENsYXNzc3EAfgAM5Cxd5nQAAm5lc3EAfgAM4OO2bXQAAmVxc3EAfgAMsmmGknQAElJldmVyc2VBcHBsaWNhdGlvbnNxAH4ADLup4xB0AAIjI3NxAH4ADJPnvy50AAhmaW5hbGl6ZXNxAH4ADB0aLvh0AAVpbmRleHNxAH4ADFisxxl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFc3EAfgBGcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHQAKWNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFwcGxpY2F0aW9udXEAfgBZAAAAAHEAfgBddXEAfgBfAAAAAHNxAH4AYXEAfgBnc3EAfgBhc3EAfgBpc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cQB+AHAAAAACc3EAfgBycQB+AHVzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AIFzcQB+AH5xAH4Ag3EAfgCFc3EAfgBycQB+AIdzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+cQB+AIxxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFmNvbnRyb2xsZXJzLmphdmFzY3JpcHRzcQB+AKl0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZpvXJ911cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABBQzpcVXNlcnNcQWRtaW5cSWRlYVByb2plY3RzXHByb2plY3RQbGF5XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS60jLTwlGUyXD4KV9CbjG3574Xww==
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhlpuHQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtf+Gf3QABm5vdGlmeXNxAH4ADA1jnhF0AA5fZGVmYXVsdFByZWZpeHNxAH4ADJ7/J4h0AAR3YWl0c3EAfgAMMXdVB3QADSRhc0luc3RhbmNlT2ZzcQB+AAwTDH4odAAGZXF1YWxzc3EAfgAMBETnyXQADGFzSW5zdGFuY2VPZnNxAH4ADP3CRrN0AAxzeW5jaHJvbml6ZWRzcQB+AAwhuZsSdAANJGlzSW5zdGFuY2VPZnNxAH4ADFCG/gl0AA1SZXZlcnNlQXNzZXRzc3EAfgAMHFuGMXQACW5vdGlmeUFsbHNxAH4ADOgbsvl0AAxpc0luc3RhbmNlT2ZzcQB+AAzGvC8ndAAGPGluaXQ+c3EAfgAMlQE6OXQAAmF0c3EAfgAM0yrghnQAAj09c3EAfgAM/jJginQABWNsb25lc3EAfgAMqjEQSHQACHRvU3RyaW5nc3EAfgAMhu8crXQAAiE9c3EAfgAMpjjoAnQACGdldENsYXNzc3EAfgAMycHR0HQAAm5lc3EAfgAMoNZV7XQAAmVxc3EAfgAMHNIQQHQAElJldmVyc2VBcHBsaWNhdGlvbnNxAH4ADKc8rIJ0AAIjI3NxAH4ADB4TrYx0AAhmaW5hbGl6ZXNxAH4ADGXWPbx0AAVpbmRleHNxAH4ADMW5USB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0AB5jb250cm9sbGVycy5SZXZlcnNlQXBwbGljYXRpb251cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhcQB+AGdzcQB+AGFzcQB+AGlzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4AcAAAAAJzcQB+AHJxAH4AdXNxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH5xAH4AgXNxAH4AfnEAfgCDcQB+AIVzcQB+AHJxAH4Ah3NxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH5xAH4AjHEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWT+hLtNTFUX0HmUVJ294jXOV0jA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCJeBfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYQyw3QABm5vdGlmeXNxAH4ADCIhT+10AAZBc3NldHNzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMfmE4eHQACW5vdGlmeUFsbHNxAH4ADNGfIeR0AAY8aW5pdD5zcQB+AAxLVirkdAALQXBwbGljYXRpb25zcQB+AAxVqs74dAAIdG9TdHJpbmdzcQB+AAwhC3xwdAAIZ2V0Q2xhc3NzcQB+AAwe5+o2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASY29udHJvbGxlcnMucm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AEhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AL0wACWluaGVyaXRlZHEAfgAvTAAHcGFyZW50c3EAfgAveHEAfgBNc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AEx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AExzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AGV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGZzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASHEAfgBOc3EAfgBIc3EAfgBQc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+AFcAAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUvF914L4uPpprPlonhvaJ1gDhLWE=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPnI5wgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTYH5tnQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgJgH0nQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAyee8dJdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAzxTVAydAAJbm90aWZ5QWxsc3EAfgAMyGaE1HQADGlzSW5zdGFuY2VPZnNxAH4ADFEejfd0AAZhc0phdmFzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAMY3lzXHQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADDHdx6x0AAVjbG9uZXNxAH4ADOBEvnx0AAYkaW5pdCRzcQB+AAwUiwjJdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADDJgSaR0AAJuZXNxAH4ADAVx8Sx0AAp3aXRoUHJlZml4c3EAfgAMHZawrnQABGNhbGxzcQB+AAz3VL9+dAACZXFzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHdzcQB+AHJ1cQB+AFQAAAAAc3EAfgBydXEAfgBUAAAAAHNxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Aj3QABGNvcmVzcQB+AI90AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJBzcQB+AIN0AAZSb3V0ZXJzcQB+AIdzcQB+AIp1cQB+AI0AAAAEc3EAfgCPdAAEcGxheXNxAH4Aj3QAA2FwaXNxAH4Aj3QAB3JvdXRpbmdxAH4AmHNxAH4Ag3QABk9iamVjdHNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCYc3EAfgCDdAADQW55c3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtsHk9jma77iuCJX75joYmF1OUyw=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXv9DQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3SNaY3QABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPAuoB48DLwnmHAxPsmFGCcMf2oY=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWhFGfQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtL5BTXQABm5vdGlmeXNxAH4ADFB/c+t0AAZmb3JtYXRzcQB+AAxW0hGhdAAEd2FpdHNxAH4ADErKCnh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMIqHfSHQADHByb2R1Y3RBcml0eXNxAH4ADH/Mcv50AAZlcXVhbHNzcQB+AAxTKuePdAAMYXNJbnN0YW5jZU9mc3EAfgAMgflvKHQAAWZzcQB+AAyQueJBdAAMc3luY2hyb25pemVkc3EAfgAMHVI1dXQACV9kaXNwbGF5X3NxAH4ADJjw7LZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLMhtZHQAA3JlZnNxAH4ADKNIp6J0AAhjYW5FcXVhbHNxAH4ADAUkvHF0AAxpbmRleF9TY29wZTBzcQB+AAyzq3LWdAANcHJvZHVjdFByZWZpeHNxAH4ADGmri3d0AAlub3RpZnlBbGxzcQB+AAy7jWugdAAMaXNJbnN0YW5jZU9mc3EAfgAMjbmlpXQABjxpbml0PnNxAH4ADHvzzsl0AAVhcHBseXNxAH4ADNdBAX10AAI9PXNxAH4ADI/a2kJ0AAVjbG9uZXNxAH4ADHzwfVR0AAYkaW5pdCRzcQB+AAx3dajcdAAEY29weXNxAH4ADEYLyvp0AAh0b1N0cmluZ3NxAH4ADHsslD90AAIhPXNxAH4ADIfoUUx0AAhnZXRDbGFzc3NxAH4ADLIMbAF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMQLTIt0AAZyZW5kZXJzcQB+AAypHxuedAACbmVzcQB+AAyRuGGXdAACZXFzcQB+AAxOmHwzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMmBGk5XQAAiMjc3EAfgAMWGIkOXQACGZpbmFsaXplc3EAfgAMl8eKSHQABWluZGV4c3EAfgAMR9kkDnQADnByb2R1Y3RFbGVtZW50c3EAfgAMAD7BwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAF3ZpZXdzLmh0bWwuaW5kZXhfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAQdmlld3MuaHRtbC5pbmRleHVxAH4AbwAAAABxAH4Ac3VxAH4AdQAAAABzcQB+AHdxAH4AfXNxAH4Ad3NxAH4Af3NxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgCGAAAACXNxAH4AiHQABWluZGV4c3EAfgCIdAAMaW5kZXhfU2NvcGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABXZpZXdzc3EAfgCUdAAEaHRtbHEAfgCbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCIdAAJVGVtcGxhdGUxc3EAfgCMc3EAfgCPdXEAfgCSAAAABHNxAH4AlHQABHBsYXlzcQB+AJR0AAV0d2lybHNxAH4AlHQAA2FwaXEAfgCbdXEAfgCGAAAAAnNxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIh0AARIdG1scQB+AMJzcQB+AL1zcQB+AIh0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgDCdXEAfgCGAAAAAnEAfgDTc3EAfgC9c3EAfgCIdAAGRm9ybWF0cQB+AMJ1cQB+AIYAAAABcQB+ANNzcQB+AIh0AAxTZXJpYWxpemFibGVzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUcQB+AKJxAH4Am3NxAH4AiHEAfgDec3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCXc3EAfgCUdAACaW9xAH4Am3NxAH4AiHQAB1Byb2R1Y3RxAH4A33NxAH4AiHQABkVxdWFsc3EAfgDfc3EAfgCIcQB+AItxAH4AznNxAH4AiHEAfgCdcQB+AN91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A8nQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdRsXJa/B1w8r/pmDyMO+jg/jiBk=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0wG9EAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrtAg6nQABm5vdGlmeXNxAH4ADPjCyfh0AAZmb3JtYXRzcQB+AAy4Az9fdAAEd2FpdHNxAH4ADBG6yTV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrCNhhnQADHByb2R1Y3RBcml0eXNxAH4ADCufHdB0AAZlcXVhbHNzcQB+AAw6ZZMgdAAMYXNJbnN0YW5jZU9mc3EAfgAMPyoBFHQAAWZzcQB+AAw/uzVMdAAMc3luY2hyb25pemVkc3EAfgAMZfopKXQACV9kaXNwbGF5X3NxAH4ADB1F7ft0AA0kaXNJbnN0YW5jZU9mc3EAfgAME8e7FXQAA3JlZnNxAH4ADNrRLvx0AAhjYW5FcXVhbHNxAH4ADBLftmJ0AARtYWluc3EAfgAMI/2pu3QADXByb2R1Y3RQcmVmaXhzcQB+AAwr78V7dAAJbm90aWZ5QWxsc3EAfgAMDvTRtHQADGlzSW5zdGFuY2VPZnNxAH4ADKWC2Q90AAY8aW5pdD5zcQB+AAy8LTRPdAAFYXBwbHlzcQB+AAyeiLAwdAACPT1zcQB+AAzCDWzEdAAFY2xvbmVzcQB+AAwAY90tdAAGJGluaXQkc3EAfgAMXRWbqHQAC21haW5fU2NvcGUwc3EAfgAMCTdDKXQABGNvcHlzcQB+AAzX13bHdAAIdG9TdHJpbmdzcQB+AAxU2ScrdAACIT1zcQB+AAw0BWpodAAIZ2V0Q2xhc3NzcQB+AAxbY/72dAAOY29weSRkZWZhdWx0JDFzcQB+AAxI2uyOdAAGcmVuZGVyc3EAfgAMNwb2AXQAAm5lc3EAfgAMuLvRynQAAmVxc3EAfgAMGiVaC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVwPB10AAIjI3NxAH4ADKZIUSx0AAhmaW5hbGl6ZXNxAH4ADFR3k4F0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAgCCRN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABZ2aWV3cy5odG1sLm1haW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAPdmlld3MuaHRtbC5tYWludXEAfgBvAAAAAHEAfgBzdXEAfgB1AAAAAHNxAH4Ad3EAfgB9c3EAfgB3c3EAfgB/c3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AIYAAAAJc3EAfgCIdAAEbWFpbnNxAH4AiHQAC21haW5fU2NvcGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABXZpZXdzc3EAfgCUdAAEaHRtbHEAfgCbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCIdAAJVGVtcGxhdGUyc3EAfgCMc3EAfgCPdXEAfgCSAAAABHNxAH4AlHQABHBsYXlzcQB+AJR0AAV0d2lybHNxAH4AlHQAA2FwaXEAfgCbdXEAfgCGAAAAA3NxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIh0AARIdG1scQB+AMJzcQB+AIh0AARIdG1scQB+AMJzcQB+AL1zcQB+AIh0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgDCdXEAfgCGAAAAAnEAfgDVc3EAfgC9c3EAfgCIdAAGRm9ybWF0cQB+AMJ1cQB+AIYAAAABcQB+ANVzcQB+AIh0AAxTZXJpYWxpemFibGVzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUcQB+AKJxAH4Am3NxAH4AiHEAfgDgc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCXc3EAfgCUdAACaW9xAH4Am3NxAH4AiHQAB1Byb2R1Y3RxAH4A4XNxAH4AiHQABkVxdWFsc3EAfgDhc3EAfgCIcQB+AItxAH4AznNxAH4AiHEAfgCdcQB+AOF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A9HQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWab1yfddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUhz1rsJzToH8K7tAhLRNRL5ql2v8=
+external apis:
+0 items
+source infos:
+8 items
+C:\Users\Admin\IdeaProjects\projectPlay\app\controllers\Application.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\IdeaProjects\projectPlay\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZpvXJ911cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFVzZXJzXEFkbWluXElkZWFQcm9qZWN0c1xwcm9qZWN0UGxheVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
